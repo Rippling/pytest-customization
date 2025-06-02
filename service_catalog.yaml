@@ -1,0 +1,5 @@
+version: 2025-05-14-16-38-08
+services:
+  - name: pytest-customization
+    team: devx
+    jira_project_key: DEVX
